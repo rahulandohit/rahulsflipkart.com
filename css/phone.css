@@ -1,0 +1,42 @@
+@media screen and (max-width:946px) {
+    body{
+        background-color: red;
+    }
+    #four-images .four-images{
+        overflow: hidden;
+    }
+    #four-images .four-images .first-image{
+        width: 100px;
+    }
+    #four-images .four-images .second-image{
+        width: 100px;
+    }
+    #four-images .four-images .third-image{
+        width: 100px;
+    }
+    #four-images .four-images .fourth-image{
+        width: 100px;
+    }
+    #four-images .four-images  .first-image img{
+        padding-right: 150px;
+    }
+    #four-images .four-images  .second-image img{
+        padding-left:  90px;
+    }
+    #four-images .four-images .third-image img{
+        padding-left: 180px;
+    }
+    #four-images .four-images .fourth-image img{
+        padding-left: 270px;
+    }
+    footer{
+        display: block;
+        width: 100vw;
+        margin: auto;
+    }
+    footer .para{
+        display: block;
+        margin: auto;
+    }
+
+}
